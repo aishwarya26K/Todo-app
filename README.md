@@ -1,4 +1,4 @@
-# NETFLIX CLONE
+# TO DO APP
 
 ## Project url
 
